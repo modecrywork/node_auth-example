@@ -1,1 +1,1 @@
-auth_node
+# Example simple auth with passport-local
